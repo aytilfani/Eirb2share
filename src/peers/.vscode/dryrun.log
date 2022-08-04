@@ -1,0 +1,11 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/media/hedi/D/free-ProjetReseauxG1/src/peers'
+javac FileInfo.java
+javac PeerClient.java
+javac PeerServer.java
+javac Socket_t.java
+javac TestConnect.java
+javac TestConnectUn.java
+javac Worker.java
+make: Leaving directory '/media/hedi/D/free-ProjetReseauxG1/src/peers'
+ 

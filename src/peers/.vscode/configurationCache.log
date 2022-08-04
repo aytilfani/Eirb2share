@@ -1,0 +1,1 @@
+{"buildTargets":["all","clean","file","peers","socket","test","worker"],"launchTargets":[],"customConfigurationProvider":{"workspaceBrowse":{"browsePath":[],"compilerArgs":[]},"fileIndex":[]}}
